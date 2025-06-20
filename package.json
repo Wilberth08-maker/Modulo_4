@@ -4,8 +4,7 @@
   "description": "¡Bienvenido, joven Padawan del DOM! Este examen contiene desafíos reales que todo master del Frontend debe superar.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vite"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
