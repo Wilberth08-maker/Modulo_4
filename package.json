@@ -1,0 +1,24 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "¡Bienvenido, joven Padawan del DOM! Este examen contiene desafíos reales que todo master del Frontend debe superar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesualujan/react-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesualujan/react-test/issues"
+  },
+  "homepage": "https://github.com/jesualujan/react-test#readme",
+  "dependencies": {
+    "vite": "^6.3.5"
+  }
+}
