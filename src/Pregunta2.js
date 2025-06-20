@@ -15,3 +15,5 @@ function Clock() {
 
   return <p>{time.toLocaleTimeString()}</p>;
 }
+
+export default Clock;
